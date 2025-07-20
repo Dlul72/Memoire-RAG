@@ -43,3 +43,7 @@ Pistes d’amélioration / Extensions possibles :
 
 Puis publication mémoire open-source Github.
 
+
+
+Autre :
+API Pappers
